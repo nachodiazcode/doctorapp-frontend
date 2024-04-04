@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+
+body{
+  margin:0;
+}
+
+h1{
+    font-family: "Playfair Display", serif !important;
+}
+
+h2{
+  font-family: "Playfair Display", serif !important;
+  font-size:1.5em;
+}
+
+input[type="text"]{
+  background-color: "#ccc";
+}
+
+
+
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';
+
+
