@@ -14,7 +14,7 @@ Este proyecto está en versión beta (v0.0.1) y está destinado a ofrecer un sis
 
 1. **Clonar el Repositorio:**
     ```bash
-    git clone <url_del_repositorio>
+    git clone <https://github.com/nachodiazcode/doctorapp-frontend.git>
     ```
 
 2. **Instalar Dependencias:**
@@ -52,4 +52,4 @@ Si encuentras algún problema o tienes alguna sugerencia, por favor, abre un iss
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE.md para más detalles.
 
-![Vista previa del proyecto](/src/screenshot.png)
+![Vista previa del proyecto](ruta/a/la/imagen.png)
